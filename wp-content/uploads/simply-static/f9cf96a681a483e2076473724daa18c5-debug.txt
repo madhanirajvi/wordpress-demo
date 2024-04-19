@@ -1,0 +1,1571 @@
+[2024-04-18 18:54:27] [class-ss-archive-creation-job.php:83] Starting a job; no job is presently running
+[2024-04-18 18:54:27] [class-ss-archive-creation-job.php:84] Here's our task list: setup, fetch_urls, create_zip_archive, wrapup
+[2024-04-18 18:54:27] [class-ss-archive-creation-job.php:98] Pushing first task to queue: setup
+[2024-04-18 18:54:29] [class-ss-archive-creation-job.php:132] Current task: setup
+[2024-04-18 18:54:29] [class-ss-archive-creation-job.php:149] Performing task: setup
+[2024-04-18 18:54:29] [class-ss-task.php:44] Status message: [setup] Setting up
+[2024-04-18 18:54:29] [class-ss-setup-task.php:33] Creating archive directory: C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467\
+[2024-04-18 18:54:29] [class-ss-setup-task.php:79] Adding origin URL to queue: http://localhost/wordpressdemo/
+[2024-04-18 18:54:29] [class-ss-setup-task.php:137] File C:\xampp\htdocs\wordpressdemo\wp-content\plugins\simply-static//src/integrations/simply-cdn/assets/ssh-form-webhook.js exists; adding to queue as: C:/xampp/htdocs/wordpressdemo/wp-content/plugins/simply-static//src/integrations/simply-cdn/assets/ssh-form-webhook.js
+[2024-04-18 18:54:29] [class-ss-archive-creation-job.php:171] We've found our next task: fetch_urls
+[2024-04-18 18:54:29] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-18 18:54:29] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-18 18:54:29] [class-ss-fetch-urls-task.php:55] Total pages: 2; Pages remaining: 2
+[2024-04-18 18:54:29] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/
+[2024-04-18 18:54:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 2
+[2024-04-18 18:54:29] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c65bfc3d-Ik4PFv.tmp
+[2024-04-18 18:54:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/?simply_static_page=92
+[2024-04-18 18:54:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/?simply_static_page=92
+[2024-04-18 18:54:30] [class-ss-url-fetcher.php:103] Filesize: 123482 bytes
+[2024-04-18 18:54:30] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:30] [class-ss-url-fetcher.php:233] New filename for static page: /index.html
+[2024-04-18 18:54:30] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c65bfc3d-Ik4PFv.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/index.html
+[2024-04-18 18:54:30] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:30] [class-ss-fetch-urls-task.php:144] Adding 56 URLs to the queue
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpressdemo/wp-content/plugins/simply-static//src/integrations/simply-cdn/assets/ssh-form-webhook.js
+[2024-04-18 18:54:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 2
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-18 18:54:31] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 2 pages/files
+[2024-04-18 18:54:31] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-18 18:54:31] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-18 18:54:31] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:55] Total pages: 57; Pages remaining: 55
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio
+[2024-04-18 18:54:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 57
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c677e21a-ESYLay.tmp
+[2024-04-18 18:54:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio?simply_static_page=94
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio?simply_static_page=94
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:103] Filesize: 402 bytes
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:190] redirect_url: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:199] This is a redirect to a trailing slashed version of the same page; adding new URL to the queue
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services
+[2024-04-18 18:54:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 57
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6789569-aJvA7o.tmp
+[2024-04-18 18:54:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services?simply_static_page=95
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services?simply_static_page=95
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:103] Filesize: 401 bytes
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:190] redirect_url: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:199] This is a redirect to a trailing slashed version of the same page; adding new URL to the queue
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/standard-blog-post-title/
+[2024-04-18 18:54:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 57
+[2024-04-18 18:54:31] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c67918d4-y7Qj3s.tmp
+[2024-04-18 18:54:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/standard-blog-post-title/?simply_static_page=96
+[2024-04-18 18:54:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/standard-blog-post-title/?simply_static_page=96
+[2024-04-18 18:54:32] [class-ss-url-fetcher.php:103] Filesize: 37898 bytes
+[2024-04-18 18:54:32] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:32] [class-ss-url-fetcher.php:233] New filename for static page: /standard-blog-post-title/index.html
+[2024-04-18 18:54:32] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c67918d4-y7Qj3s.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/standard-blog-post-title/index.html
+[2024-04-18 18:54:32] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:32] [class-ss-fetch-urls-task.php:144] Adding 49 URLs to the queue
+[2024-04-18 18:54:32] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:32] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/category/css/
+[2024-04-18 18:54:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 57
+[2024-04-18 18:54:32] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:32] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c689c69f-Ozkeaz.tmp
+[2024-04-18 18:54:32] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/category/css/?simply_static_page=97
+[2024-04-18 18:54:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/category/css/?simply_static_page=97
+[2024-04-18 18:54:33] [class-ss-url-fetcher.php:103] Filesize: 39076 bytes
+[2024-04-18 18:54:33] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:33] [class-ss-url-fetcher.php:233] New filename for static page: /category/css/index.html
+[2024-04-18 18:54:33] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c689c69f-Ozkeaz.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/category/css/index.html
+[2024-04-18 18:54:33] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:33] [class-ss-fetch-urls-task.php:144] Adding 52 URLs to the queue
+[2024-04-18 18:54:33] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:33] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/category/html5/
+[2024-04-18 18:54:33] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 57
+[2024-04-18 18:54:33] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:33] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c69d480b-UcVD5o.tmp
+[2024-04-18 18:54:33] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/category/html5/?simply_static_page=98
+[2024-04-18 18:54:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/category/html5/?simply_static_page=98
+[2024-04-18 18:54:34] [class-ss-url-fetcher.php:103] Filesize: 39084 bytes
+[2024-04-18 18:54:34] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:34] [class-ss-url-fetcher.php:233] New filename for static page: /category/html5/index.html
+[2024-04-18 18:54:34] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c69d480b-UcVD5o.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/category/html5/index.html
+[2024-04-18 18:54:34] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:34] [class-ss-fetch-urls-task.php:144] Adding 52 URLs to the queue
+[2024-04-18 18:54:34] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:35] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/category/web-design/
+[2024-04-18 18:54:35] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 57
+[2024-04-18 18:54:35] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:35] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6b0a7fb-YvCVUq.tmp
+[2024-04-18 18:54:35] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/category/web-design/?simply_static_page=99
+[2024-04-18 18:54:35] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/category/web-design/?simply_static_page=99
+[2024-04-18 18:54:35] [class-ss-url-fetcher.php:103] Filesize: 39104 bytes
+[2024-04-18 18:54:35] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:35] [class-ss-url-fetcher.php:233] New filename for static page: /category/web-design/index.html
+[2024-04-18 18:54:35] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6b0a7fb-YvCVUq.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/category/web-design/index.html
+[2024-04-18 18:54:35] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:36] [class-ss-fetch-urls-task.php:144] Adding 52 URLs to the queue
+[2024-04-18 18:54:36] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:36] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/standard-blog-post-image/
+[2024-04-18 18:54:36] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 57
+[2024-04-18 18:54:36] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:36] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6c35528-rXP5Nc.tmp
+[2024-04-18 18:54:36] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/standard-blog-post-image/?simply_static_page=100
+[2024-04-18 18:54:36] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/standard-blog-post-image/?simply_static_page=100
+[2024-04-18 18:54:36] [class-ss-url-fetcher.php:103] Filesize: 36199 bytes
+[2024-04-18 18:54:36] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:36] [class-ss-url-fetcher.php:233] New filename for static page: /standard-blog-post-image/index.html
+[2024-04-18 18:54:36] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6c35528-rXP5Nc.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/standard-blog-post-image/index.html
+[2024-04-18 18:54:36] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 48 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/logo.png
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d2e71e-PXrT8w.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/logo.png?simply_static_page=101
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/logo.png?simply_static_page=101
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 7188 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/logo.png
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d2e71e-PXrT8w.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/logo.png
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/1.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d3d10d-HlNSQd.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/1.jpg?simply_static_page=102
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/1.jpg?simply_static_page=102
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 12780 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/portfolio/1.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d3d10d-HlNSQd.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/portfolio/1.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/2.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d4c2db-ltV1rc.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/2.jpg?simply_static_page=103
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/2.jpg?simply_static_page=103
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 16659 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/portfolio/2.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d4c2db-ltV1rc.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/portfolio/2.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/3.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d5af56-OOyaWO.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/3.jpg?simply_static_page=104
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/3.jpg?simply_static_page=104
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 16084 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/portfolio/3.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d5af56-OOyaWO.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/portfolio/3.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/4.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d61260-IgUrfT.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/4.jpg?simply_static_page=105
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/4.jpg?simply_static_page=105
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 15982 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/portfolio/4.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d61260-IgUrfT.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/portfolio/4.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/1.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d67297-ro1kFK.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/1.jpg?simply_static_page=106
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/1.jpg?simply_static_page=106
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 5078 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/services/1.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d67297-ro1kFK.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/services/1.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/2.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d79e54-hQZFYq.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/2.jpg?simply_static_page=107
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/2.jpg?simply_static_page=107
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 3719 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/services/2.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d79e54-hQZFYq.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/services/2.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/3.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d87d8e-tHFuYu.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/3.jpg?simply_static_page=108
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/3.jpg?simply_static_page=108
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 5143 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/services/3.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d87d8e-tHFuYu.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/services/3.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d8ea7c-Ico0gT.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1.jpg?simply_static_page=109
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1.jpg?simply_static_page=109
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 129082 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/1-1.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d8ea7c-Ico0gT.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/1-1.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-300x136.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6d9ee4a-H0EhJo.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-300x136.jpg?simply_static_page=110
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-300x136.jpg?simply_static_page=110
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 17246 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/1-1-300x136.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6d9ee4a-H0EhJo.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/1-1-300x136.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-768x349.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6da5ba0-ZQPszn.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-768x349.jpg?simply_static_page=111
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-768x349.jpg?simply_static_page=111
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 100743 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/1-1-768x349.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6da5ba0-ZQPszn.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/1-1-768x349.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-600x273.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6db3d9c-CkAuvl.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-600x273.jpg?simply_static_page=112
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/1-1-600x273.jpg?simply_static_page=112
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 65074 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/1-1-600x273.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6db3d9c-CkAuvl.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/1-1-600x273.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6dc2dc0-BhZ4RD.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/2.jpg?simply_static_page=113
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2.jpg?simply_static_page=113
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 59713 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/2.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6dc2dc0-BhZ4RD.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/2.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-300x136.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6dd34d0-cEwyLG.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-300x136.jpg?simply_static_page=114
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-300x136.jpg?simply_static_page=114
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 12420 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/2-300x136.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6dd34d0-cEwyLG.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/2-300x136.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-768x349.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6dde91d-sjW16k.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-768x349.jpg?simply_static_page=115
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-768x349.jpg?simply_static_page=115
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 51715 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/2-768x349.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6dde91d-sjW16k.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/2-768x349.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-600x273.jpg
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6decdc1-u7FRF8.tmp
+[2024-04-18 18:54:37] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-600x273.jpg?simply_static_page=116
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/uploads/2016/03/2-600x273.jpg?simply_static_page=116
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:103] Filesize: 35342 bytes
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2016/03/2-600x273.jpg
+[2024-04-18 18:54:37] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6decdc1-u7FRF8.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/uploads/2016/03/2-600x273.jpg
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/xmlrpc.php
+[2024-04-18 18:54:37] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 57
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/xmlrpc.php
+[2024-04-18 18:54:37] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:38] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/feed/
+[2024-04-18 18:54:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 57
+[2024-04-18 18:54:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6e0221d-j2phLW.tmp
+[2024-04-18 18:54:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/feed/?simply_static_page=118
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/feed/?simply_static_page=118
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:103] Filesize: 3359 bytes
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:233] New filename for static page: /feed/index.xml
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6e0221d-j2phLW.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/feed/index.xml
+[2024-04-18 18:54:38] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:38] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:54:38] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:38] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/comments/feed/
+[2024-04-18 18:54:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 57
+[2024-04-18 18:54:38] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6ef1b49-YKoKMX.tmp
+[2024-04-18 18:54:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/comments/feed/?simply_static_page=119
+[2024-04-18 18:54:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/comments/feed/?simply_static_page=119
+[2024-04-18 18:54:39] [class-ss-url-fetcher.php:103] Filesize: 1470 bytes
+[2024-04-18 18:54:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:54:39] [class-ss-url-fetcher.php:233] New filename for static page: /comments/feed/index.xml
+[2024-04-18 18:54:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6ef1b49-YKoKMX.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/comments/feed/index.xml
+[2024-04-18 18:54:39] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:39] [class-ss-fetch-urls-task.php:144] Adding 3 URLs to the queue
+[2024-04-18 18:54:39] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:39] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/sample-page/feed/
+[2024-04-18 18:54:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 57
+[2024-04-18 18:54:39] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c6fbf697-gws5Dk.tmp
+[2024-04-18 18:54:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/sample-page/feed/?simply_static_page=120
+[2024-04-18 18:54:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/sample-page/feed/?simply_static_page=120
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 986 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:233] New filename for static page: /sample-page/feed/index.xml
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c6fbf697-gws5Dk.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/sample-page/feed/index.xml
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:144] Adding 2 URLs to the queue
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-includes/css/dist/block-library/style.min.css
+[2024-04-18 18:54:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 57
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c70861b5-KDZyAy.tmp
+[2024-04-18 18:54:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-includes/css/dist/block-library/style.min.css?simply_static_page=121
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-includes/css/dist/block-library/style.min.css?simply_static_page=121
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 113381 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/css/dist/block-library/style.min.css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c70861b5-KDZyAy.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-includes/css/dist/block-library/style.min.css
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/plugins/contact-form-7/includes/css/styles.css
+[2024-04-18 18:54:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 57
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7097a17-qTJu9S.tmp
+[2024-04-18 18:54:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/plugins/contact-form-7/includes/css/styles.css?simply_static_page=122
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/plugins/contact-form-7/includes/css/styles.css?simply_static_page=122
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 2894 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/contact-form-7/includes/css/styles.css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7097a17-qTJu9S.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/plugins/contact-form-7/includes/css/styles.css
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/genericons.css
+[2024-04-18 18:54:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 57
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c709e9a3-l0UlrR.tmp
+[2024-04-18 18:54:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/genericons.css?simply_static_page=123
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/genericons.css?simply_static_page=123
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 28266 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/genericons/genericons.css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c709e9a3-l0UlrR.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/genericons/genericons.css
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:144] Adding 3 URLs to the queue
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/style.css
+[2024-04-18 18:54:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 57
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c70ba786-IQr0iu.tmp
+[2024-04-18 18:54:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/style.css?simply_static_page=124
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/style.css?simply_static_page=124
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 70988 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/style.css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c70ba786-IQr0iu.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/style.css
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/animate.min.css
+[2024-04-18 18:54:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 57
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c70d1808-iSGlc0.tmp
+[2024-04-18 18:54:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/animate.min.css?simply_static_page=125
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/animate.min.css?simply_static_page=125
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 59094 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/animate.min.css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c70d1808-iSGlc0.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/animate.min.css
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/responsive.css
+[2024-04-18 18:54:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 57
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c70e19f5-fEAFXi.tmp
+[2024-04-18 18:54:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/responsive.css?simply_static_page=126
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/responsive.css?simply_static_page=126
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 20166 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/responsive.css
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c70e19f5-fEAFXi.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/responsive.css
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/style.css
+[2024-04-18 18:54:40] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 57
+[2024-04-18 18:54:40] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c70ef284-vy3KyD.tmp
+[2024-04-18 18:54:40] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/style.css?simply_static_page=127
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/style.css?simply_static_page=127
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:103] Filesize: 30469 bytes
+[2024-04-18 18:54:40] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/style.css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c70ef284-vy3KyD.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/style.css
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/bootstrap.min.css
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c710e34b-lurdhv.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/bootstrap.min.css?simply_static_page=128
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/bootstrap.min.css?simply_static_page=128
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 117150 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/bootstrap.min.css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c710e34b-lurdhv.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/bootstrap.min.css
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/retina.css
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7122948-g0ZW71.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/retina.css?simply_static_page=129
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/retina.css?simply_static_page=129
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 731 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/retina.css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7122948-g0ZW71.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/retina.css
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 2 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/owl.carousel.css
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c712d300-uvB8xL.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/owl.carousel.css?simply_static_page=130
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/owl.carousel.css?simply_static_page=130
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 1557 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/owl.carousel.css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c712d300-uvB8xL.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/owl.carousel.css
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 1 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/magnific-popup.css
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7138b79-0dMlHy.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/magnific-popup.css?simply_static_page=131
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/magnific-popup.css?simply_static_page=131
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 7782 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/magnific-popup.css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7138b79-0dMlHy.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/magnific-popup.css
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/font-awesome.min.css
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c713f310-BNwAXm.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/font-awesome.min.css?simply_static_page=132
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/font-awesome.min.css?simply_static_page=132
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 23718 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/font-awesome.min.css
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c713f310-BNwAXm.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/css/font-awesome.min.css
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/pages/2
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/pages/2
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/oembed/1.0/embed
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/oembed/1.0/embed
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-includes/js/jquery/jquery.min.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c71664cf-h33QY6.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-includes/js/jquery/jquery.min.js?simply_static_page=136
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-includes/js/jquery/jquery.min.js?simply_static_page=136
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 87553 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/jquery/jquery.min.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c71664cf-h33QY6.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-includes/js/jquery/jquery.min.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-includes/js/jquery/jquery-migrate.min.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c717d7af-J1OEfQ.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-includes/js/jquery/jquery-migrate.min.js?simply_static_page=137
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-includes/js/jquery/jquery-migrate.min.js?simply_static_page=137
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 13577 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-includes/js/jquery/jquery-migrate.min.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c717d7af-J1OEfQ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-includes/js/jquery/jquery-migrate.min.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/gmap3.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c718fd93-wyV05i.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/gmap3.js?simply_static_page=138
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/gmap3.js?simply_static_page=138
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 25237 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/gmap3.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c718fd93-wyV05i.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/gmap3.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/bootstrap.min.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c719f0a7-TKKegD.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/bootstrap.min.js?simply_static_page=139
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/bootstrap.min.js?simply_static_page=139
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 35601 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/bootstrap.min.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c719f0a7-TKKegD.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/bootstrap.min.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.ajaxchimp.min.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c71acfdf-s3aSrc.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.ajaxchimp.min.js?simply_static_page=140
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.ajaxchimp.min.js?simply_static_page=140
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 5067 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/jquery.ajaxchimp.min.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c71acfdf-s3aSrc.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/jquery.ajaxchimp.min.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.fitvids.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c71b308a-N47Xjo.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.fitvids.js?simply_static_page=141
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.fitvids.js?simply_static_page=141
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 3262 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/jquery.fitvids.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c71b308a-N47Xjo.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/jquery.fitvids.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.magnific-popup.min.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c71bdefd-VoGeip.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.magnific-popup.min.js?simply_static_page=142
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.magnific-popup.min.js?simply_static_page=142
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 20932 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/jquery.magnific-popup.min.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c71bdefd-VoGeip.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/jquery.magnific-popup.min.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 57
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c71d23f2-C5fpBZ.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.js?simply_static_page=143
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/jquery.js?simply_static_page=143
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 268381 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/jquery.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c71d23f2-C5fpBZ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/jquery.js
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:41] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 2 of 57 pages/files
+[2024-04-18 18:54:41] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-18 18:54:41] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-18 18:54:41] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:55] Total pages: 91; Pages remaining: 39
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/modernizr-2.8.3.min.js
+[2024-04-18 18:54:41] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 91
+[2024-04-18 18:54:41] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c71f0fe6-ybA7vD.tmp
+[2024-04-18 18:54:41] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/modernizr-2.8.3.min.js?simply_static_page=144
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/modernizr-2.8.3.min.js?simply_static_page=144
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:103] Filesize: 52755 bytes
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/modernizr-2.8.3.min.js
+[2024-04-18 18:54:41] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c71f0fe6-ybA7vD.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/modernizr-2.8.3.min.js
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/plugins.js
+[2024-04-18 18:54:42] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 91
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7208c66-W4u3zZ.tmp
+[2024-04-18 18:54:42] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/plugins.js?simply_static_page=145
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/plugins.js?simply_static_page=145
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:103] Filesize: 149006 bytes
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/plugins.js
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7208c66-W4u3zZ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/plugins.js
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/wow.min.js
+[2024-04-18 18:54:42] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 91
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7225410-XJTdbX.tmp
+[2024-04-18 18:54:42] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/wow.min.js?simply_static_page=146
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/wow.min.js?simply_static_page=146
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:103] Filesize: 7062 bytes
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/wow.min.js
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7225410-XJTdbX.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/wow.min.js
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/functions.js
+[2024-04-18 18:54:42] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 91
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7233227-MgwBvy.tmp
+[2024-04-18 18:54:42] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/functions.js?simply_static_page=147
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/functions.js?simply_static_page=147
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:103] Filesize: 6525 bytes
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/functions.js
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7233227-MgwBvy.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/functions.js
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/JScript.js
+[2024-04-18 18:54:42] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 91
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c723d37e-4W3xbC.tmp
+[2024-04-18 18:54:42] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/js/JScript.js?simply_static_page=148
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/js/JScript.js?simply_static_page=148
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:103] Filesize: 1738 bytes
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/javascript
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/js/JScript.js
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c723d37e-4W3xbC.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/js/JScript.js
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/
+[2024-04-18 18:54:42] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 91
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7249408-OVXR4E.tmp
+[2024-04-18 18:54:42] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/?simply_static_page=149
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/portfolio/?simply_static_page=149
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:103] Filesize: 1745 bytes
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/portfolio/index.html
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7249408-OVXR4E.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/portfolio/index.html
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:144] Adding 6 URLs to the queue
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/
+[2024-04-18 18:54:42] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 91
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7261571-CJq2rl.tmp
+[2024-04-18 18:54:42] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/?simply_static_page=150
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/?simply_static_page=150
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:103] Filesize: 1743 bytes
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/services/index.html
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7261571-CJq2rl.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/services/index.html
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:144] Adding 6 URLs to the queue
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/css/
+[2024-04-18 18:54:42] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 91
+[2024-04-18 18:54:42] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7276b8f-NAEexf.tmp
+[2024-04-18 18:54:42] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/css/?simply_static_page=151
+[2024-04-18 18:54:42] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/css/?simply_static_page=151
+[2024-04-18 18:54:43] [class-ss-url-fetcher.php:103] Filesize: 39015 bytes
+[2024-04-18 18:54:43] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:43] [class-ss-url-fetcher.php:233] New filename for static page: /tag/css/index.html
+[2024-04-18 18:54:43] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7276b8f-NAEexf.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/css/index.html
+[2024-04-18 18:54:43] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:43] [class-ss-fetch-urls-task.php:144] Adding 52 URLs to the queue
+[2024-04-18 18:54:43] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:43] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/html/
+[2024-04-18 18:54:43] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 91
+[2024-04-18 18:54:43] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:43] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c73c6514-oAwBKJ.tmp
+[2024-04-18 18:54:43] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/html/?simply_static_page=152
+[2024-04-18 18:54:43] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/html/?simply_static_page=152
+[2024-04-18 18:54:44] [class-ss-url-fetcher.php:103] Filesize: 39019 bytes
+[2024-04-18 18:54:44] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:44] [class-ss-url-fetcher.php:233] New filename for static page: /tag/html/index.html
+[2024-04-18 18:54:44] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c73c6514-oAwBKJ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/html/index.html
+[2024-04-18 18:54:44] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:44] [class-ss-fetch-urls-task.php:144] Adding 52 URLs to the queue
+[2024-04-18 18:54:44] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:45] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/item/
+[2024-04-18 18:54:45] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 91
+[2024-04-18 18:54:45] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:45] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7503397-MUY0vj.tmp
+[2024-04-18 18:54:45] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/item/?simply_static_page=153
+[2024-04-18 18:54:45] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/item/?simply_static_page=153
+[2024-04-18 18:54:45] [class-ss-url-fetcher.php:103] Filesize: 39019 bytes
+[2024-04-18 18:54:45] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:45] [class-ss-url-fetcher.php:233] New filename for static page: /tag/item/index.html
+[2024-04-18 18:54:45] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7503397-MUY0vj.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/item/index.html
+[2024-04-18 18:54:45] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:46] [class-ss-fetch-urls-task.php:144] Adding 52 URLs to the queue
+[2024-04-18 18:54:46] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:46] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/wordpress/
+[2024-04-18 18:54:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 91
+[2024-04-18 18:54:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:46] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c763d8b3-lg6sv2.tmp
+[2024-04-18 18:54:46] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/wordpress/?simply_static_page=154
+[2024-04-18 18:54:46] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/wordpress/?simply_static_page=154
+[2024-04-18 18:54:47] [class-ss-url-fetcher.php:103] Filesize: 39039 bytes
+[2024-04-18 18:54:47] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:47] [class-ss-url-fetcher.php:233] New filename for static page: /tag/wordpress/index.html
+[2024-04-18 18:54:47] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c763d8b3-lg6sv2.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/wordpress/index.html
+[2024-04-18 18:54:47] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:47] [class-ss-fetch-urls-task.php:144] Adding 52 URLs to the queue
+[2024-04-18 18:54:47] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:47] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/2024/04/
+[2024-04-18 18:54:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 91
+[2024-04-18 18:54:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:47] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c77718b9-SPnAoy.tmp
+[2024-04-18 18:54:47] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/2024/04/?simply_static_page=155
+[2024-04-18 18:54:47] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/2024/04/?simply_static_page=155
+[2024-04-18 18:54:48] [class-ss-url-fetcher.php:103] Filesize: 38780 bytes
+[2024-04-18 18:54:48] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:48] [class-ss-url-fetcher.php:233] New filename for static page: /2024/04/index.html
+[2024-04-18 18:54:48] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c77718b9-SPnAoy.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/2024/04/index.html
+[2024-04-18 18:54:48] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:48] [class-ss-fetch-urls-task.php:144] Adding 50 URLs to the queue
+[2024-04-18 18:54:48] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:48] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/2024/04/18/
+[2024-04-18 18:54:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 91
+[2024-04-18 18:54:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:48] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c789f408-zurWzq.tmp
+[2024-04-18 18:54:48] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/2024/04/18/?simply_static_page=156
+[2024-04-18 18:54:48] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/2024/04/18/?simply_static_page=156
+[2024-04-18 18:54:49] [class-ss-url-fetcher.php:103] Filesize: 38780 bytes
+[2024-04-18 18:54:49] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:49] [class-ss-url-fetcher.php:233] New filename for static page: /2024/04/18/index.html
+[2024-04-18 18:54:49] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c789f408-zurWzq.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/2024/04/18/index.html
+[2024-04-18 18:54:49] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:49] [class-ss-fetch-urls-task.php:144] Adding 50 URLs to the queue
+[2024-04-18 18:54:49] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:49] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/standard-blog-post-title/feed/
+[2024-04-18 18:54:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 91
+[2024-04-18 18:54:49] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:49] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c79d41ce-miuhHU.tmp
+[2024-04-18 18:54:49] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/standard-blog-post-title/feed/?simply_static_page=157
+[2024-04-18 18:54:49] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/standard-blog-post-title/feed/?simply_static_page=157
+[2024-04-18 18:54:51] [class-ss-url-fetcher.php:103] Filesize: 1495 bytes
+[2024-04-18 18:54:51] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:54:51] [class-ss-url-fetcher.php:233] New filename for static page: /standard-blog-post-title/feed/index.xml
+[2024-04-18 18:54:51] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c79d41ce-miuhHU.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/standard-blog-post-title/feed/index.xml
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:144] Adding 2 URLs to the queue
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/posts/49
+[2024-04-18 18:54:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 91
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/posts/49
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/category/css/feed/
+[2024-04-18 18:54:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 91
+[2024-04-18 18:54:51] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:51] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7b7837c-Kx9czR.tmp
+[2024-04-18 18:54:51] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/category/css/feed/?simply_static_page=159
+[2024-04-18 18:54:51] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/category/css/feed/?simply_static_page=159
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:103] Filesize: 3384 bytes
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:233] New filename for static page: /category/css/feed/index.xml
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7b7837c-Kx9czR.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/category/css/feed/index.xml
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/categories/4
+[2024-04-18 18:54:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 91
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/categories/4
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/category/html5/feed/
+[2024-04-18 18:54:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 91
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7c432bb-UfJoC1.tmp
+[2024-04-18 18:54:52] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/category/html5/feed/?simply_static_page=161
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/category/html5/feed/?simply_static_page=161
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:103] Filesize: 3388 bytes
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:233] New filename for static page: /category/html5/feed/index.xml
+[2024-04-18 18:54:52] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7c432bb-UfJoC1.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/category/html5/feed/index.xml
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:54:52] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:53] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/categories/5
+[2024-04-18 18:54:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 91
+[2024-04-18 18:54:53] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/categories/5
+[2024-04-18 18:54:53] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:53] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/category/web-design/feed/
+[2024-04-18 18:54:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 91
+[2024-04-18 18:54:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:53] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7d0403d-tQObjY.tmp
+[2024-04-18 18:54:53] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/category/web-design/feed/?simply_static_page=163
+[2024-04-18 18:54:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/category/web-design/feed/?simply_static_page=163
+[2024-04-18 18:54:53] [class-ss-url-fetcher.php:103] Filesize: 3398 bytes
+[2024-04-18 18:54:53] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:54:53] [class-ss-url-fetcher.php:233] New filename for static page: /category/web-design/feed/index.xml
+[2024-04-18 18:54:53] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7d0403d-tQObjY.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/category/web-design/feed/index.xml
+[2024-04-18 18:54:53] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/categories/3
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/categories/3
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/posts/124
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/posts/124
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e0b482-1X0vJa.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo?simply_static_page=166
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo?simply_static_page=166
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 361 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=iso-8859-1
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:190] redirect_url: http://localhost/wordpressdemo/
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:199] This is a redirect to a trailing slashed version of the same page; adding new URL to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.eot
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e12779-D6reIj.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.eot?simply_static_page=167
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.eot?simply_static_page=167
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 22374 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/genericons/Genericons.eot
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e12779-D6reIj.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/genericons/Genericons.eot
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.ttf
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e198f4-plXwDW.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.ttf?simply_static_page=168
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.ttf?simply_static_page=168
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 22188 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/genericons/Genericons.ttf
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e198f4-plXwDW.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/genericons/Genericons.ttf
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.svg
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e21611-h5QkCJ.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.svg?simply_static_page=169
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/genericons/Genericons.svg?simply_static_page=169
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 76980 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/genericons/Genericons.svg
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e21611-h5QkCJ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/genericons/Genericons.svg
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.eot
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e3a25c-SCgFBt.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.eot?simply_static_page=170
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.eot?simply_static_page=170
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 20127 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.eot
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e3a25c-SCgFBt.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.eot
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff2
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e470e0-nLHeSa.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff2?simply_static_page=171
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff2?simply_static_page=171
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 18028 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff2
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e470e0-nLHeSa.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff2
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e4f0d7-xukoGh.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff?simply_static_page=172
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff?simply_static_page=172
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 23424 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e4f0d7-xukoGh.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.woff
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.ttf
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e569a1-WBfesG.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.ttf?simply_static_page=173
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.ttf?simply_static_page=173
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 45404 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.ttf
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e569a1-WBfesG.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.ttf
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.svg
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e5f0bc-WMMvrq.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.svg?simply_static_page=174
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.svg?simply_static_page=174
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:103] Filesize: 108738 bytes
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.svg
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c7e5f0bc-WMMvrq.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/glyphicons-halflings-regular.svg
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@path
+[2024-04-18 18:54:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 91
+[2024-04-18 18:54:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7e7375c-eL80bK.tmp
+[2024-04-18 18:54:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@path?simply_static_page=175
+[2024-04-18 18:54:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@path?simply_static_page=175
+[2024-04-18 18:54:55] [class-ss-url-fetcher.php:103] Filesize: 32750 bytes
+[2024-04-18 18:54:55] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:55] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:55] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c7f5a47f-XruOlf.tmp
+[2024-04-18 18:54:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@path
+[2024-04-18 18:54:56] [class-ss-url-fetcher.php:103] Filesize: 32750 bytes
+[2024-04-18 18:54:56] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:56] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:56] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@{at2x_path}
+[2024-04-18 18:54:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 91
+[2024-04-18 18:54:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:56] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c804ea1a-LyauAa.tmp
+[2024-04-18 18:54:56] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@{at2x_path}?simply_static_page=176
+[2024-04-18 18:54:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@{at2x_path}?simply_static_page=176
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:103] Filesize: 206 bytes
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:57] [class-ss-fetch-urls-task.php:190] redirect_url: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@%7Bat2x_path
+[2024-04-18 18:54:57] [class-ss-fetch-urls-task.php:217] Redirect URL is on the same domain; adding the URL to the queue
+[2024-04-18 18:54:57] [class-ss-fetch-urls-task.php:229] Creating a redirect page
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/css/@{at2x_path}\index.html
+[2024-04-18 18:54:57] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/grabbing.png
+[2024-04-18 18:54:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 91
+[2024-04-18 18:54:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8114452-dcDg5k.tmp
+[2024-04-18 18:54:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/grabbing.png?simply_static_page=177
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/grabbing.png?simply_static_page=177
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:103] Filesize: 32750 bytes
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c81d5b63-ntJPJc.tmp
+[2024-04-18 18:54:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/grabbing.png
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:103] Filesize: 32750 bytes
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:54:58] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.eot
+[2024-04-18 18:54:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 91
+[2024-04-18 18:54:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c82ef756-a16qkQ.tmp
+[2024-04-18 18:54:58] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.eot?simply_static_page=178
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.eot?simply_static_page=178
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:103] Filesize: 60767 bytes
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/vnd.ms-fontobject
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/fontawesome-webfont.eot
+[2024-04-18 18:54:58] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c82ef756-a16qkQ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/fontawesome-webfont.eot
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff2
+[2024-04-18 18:54:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 91
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c830b13c-MAYbZo.tmp
+[2024-04-18 18:54:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff2?simply_static_page=179
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff2?simply_static_page=179
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:103] Filesize: 56780 bytes
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff2
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/fontawesome-webfont.woff2
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c830b13c-MAYbZo.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff2
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff
+[2024-04-18 18:54:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 91
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8313461-f2iRRr.tmp
+[2024-04-18 18:54:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff?simply_static_page=180
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff?simply_static_page=180
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:103] Filesize: 71508 bytes
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/woff
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/fontawesome-webfont.woff
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8313461-f2iRRr.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/fontawesome-webfont.woff
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.ttf
+[2024-04-18 18:54:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 91
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c831e769-GHn2FL.tmp
+[2024-04-18 18:54:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.ttf?simply_static_page=181
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.ttf?simply_static_page=181
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:103] Filesize: 122092 bytes
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: font/ttf
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/fontawesome-webfont.ttf
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c831e769-GHn2FL.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/fontawesome-webfont.ttf
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.svg
+[2024-04-18 18:54:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 91
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c83281ad-ceRiZD.tmp
+[2024-04-18 18:54:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.svg?simply_static_page=182
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/fonts/fontawesome-webfont.svg?simply_static_page=182
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:103] Filesize: 313398 bytes
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/svg+xml
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/fonts/fontawesome-webfont.svg
+[2024-04-18 18:54:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c83281ad-ceRiZD.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/fonts/fontawesome-webfont.svg
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:54:59] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 52 of 91 pages/files
+[2024-04-18 18:54:59] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-18 18:54:59] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-18 18:54:59] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:55] Total pages: 102; Pages remaining: 11
+[2024-04-18 18:54:59] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/
+[2024-04-18 18:54:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 102
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8402d7c-vZaeHB.tmp
+[2024-04-18 18:55:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/?simply_static_page=183
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/?simply_static_page=183
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:103] Filesize: 3211 bytes
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/index.html
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8402d7c-vZaeHB.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/index.html
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:144] Adding 13 URLs to the queue
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/4.jpg
+[2024-04-18 18:55:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 102
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8443379-a2680t.tmp
+[2024-04-18 18:55:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/4.jpg?simply_static_page=184
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/services/4.jpg?simply_static_page=184
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:103] Filesize: 4325 bytes
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/services/4.jpg
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8443379-a2680t.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/services/4.jpg
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/css/feed/
+[2024-04-18 18:55:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 102
+[2024-04-18 18:55:00] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c844a51d-AzAywv.tmp
+[2024-04-18 18:55:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/css/feed/?simply_static_page=185
+[2024-04-18 18:55:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/css/feed/?simply_static_page=185
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:103] Filesize: 3379 bytes
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:233] New filename for static page: /tag/css/feed/index.xml
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c844a51d-AzAywv.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/css/feed/index.xml
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/12
+[2024-04-18 18:55:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 102
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/12
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/html/feed/
+[2024-04-18 18:55:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 102
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c85368d6-ViVnol.tmp
+[2024-04-18 18:55:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/html/feed/?simply_static_page=187
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/html/feed/?simply_static_page=187
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:103] Filesize: 3381 bytes
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:233] New filename for static page: /tag/html/feed/index.xml
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c85368d6-ViVnol.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/html/feed/index.xml
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/13
+[2024-04-18 18:55:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 102
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/13
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/item/feed/
+[2024-04-18 18:55:01] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 102
+[2024-04-18 18:55:01] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c85ec961-4lnsgJ.tmp
+[2024-04-18 18:55:01] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/item/feed/?simply_static_page=189
+[2024-04-18 18:55:01] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/item/feed/?simply_static_page=189
+[2024-04-18 18:55:02] [class-ss-url-fetcher.php:103] Filesize: 3381 bytes
+[2024-04-18 18:55:02] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:55:02] [class-ss-url-fetcher.php:233] New filename for static page: /tag/item/feed/index.xml
+[2024-04-18 18:55:02] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c85ec961-4lnsgJ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/item/feed/index.xml
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/11
+[2024-04-18 18:55:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 102
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/11
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/tag/wordpress/feed/
+[2024-04-18 18:55:02] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 102
+[2024-04-18 18:55:02] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:02] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c86ad77d-PP9PU5.tmp
+[2024-04-18 18:55:02] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/tag/wordpress/feed/?simply_static_page=191
+[2024-04-18 18:55:02] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/tag/wordpress/feed/?simply_static_page=191
+[2024-04-18 18:55:03] [class-ss-url-fetcher.php:103] Filesize: 3391 bytes
+[2024-04-18 18:55:03] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-04-18 18:55:03] [class-ss-url-fetcher.php:233] New filename for static page: /tag/wordpress/feed/index.xml
+[2024-04-18 18:55:03] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c86ad77d-PP9PU5.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/tag/wordpress/feed/index.xml
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:144] Adding 5 URLs to the queue
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/14
+[2024-04-18 18:55:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 102
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:65] Excludable found: URL: http://localhost/wordpressdemo/wp-json/wp/v2/tags/14
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@%7Bat2x_path
+[2024-04-18 18:55:03] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 102
+[2024-04-18 18:55:03] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:03] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c87aa355-eWlRUJ.tmp
+[2024-04-18 18:55:03] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@%7Bat2x_path?simply_static_page=193
+[2024-04-18 18:55:03] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@%7Bat2x_path?simply_static_page=193
+[2024-04-18 18:55:04] [class-ss-url-fetcher.php:103] Filesize: 32750 bytes
+[2024-04-18 18:55:04] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:55:04] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:55:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c887cb5d-EDQcqg.tmp
+[2024-04-18 18:55:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/css/@%7Bat2x_path
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 32750 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 404 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-04-18 18:55:05] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 91 of 102 pages/files
+[2024-04-18 18:55:05] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-18 18:55:05] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-18 18:55:05] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:55] Total pages: 112; Pages remaining: 10
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c894d45f-tJg9Lk.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/?simply_static_page=194
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/?simply_static_page=194
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 286 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c894d45f-tJg9Lk.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/author/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c89579e3-se3vXW.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/author/?simply_static_page=195
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/author/?simply_static_page=195
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 1115 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/author/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c89579e3-se3vXW.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/author/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 3 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/background/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c896b880-F873Gx.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/background/?simply_static_page=196
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/background/?simply_static_page=196
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 1123 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/background/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c896b880-F873Gx.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/background/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 3 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog-single/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c897f8dc-eAKrNh.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog-single/?simply_static_page=197
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog-single/?simply_static_page=197
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 1125 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/blog-single/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c897f8dc-eAKrNh.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/blog-single/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 3 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8990a9b-0mVHTb.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/?simply_static_page=198
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/?simply_static_page=198
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 1735 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/blog/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8990a9b-0mVHTb.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/blog/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 6 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c89a639a-AIxACc.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/?simply_static_page=199
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/?simply_static_page=199
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 1741 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/comment/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c89a639a-AIxACc.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/comment/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 6 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/img/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c89bd117-Gzq9p0.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/img/?simply_static_page=200
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/img/?simply_static_page=200
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 1120 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/img/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c89bd117-Gzq9p0.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/img/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 3 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/logo.png
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c89ce358-gHlOh3.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/logo.png?simply_static_page=201
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/logo.png?simply_static_page=201
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 7188 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/logo.png
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c89ce358-gHlOh3.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/logo.png
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/mapicon.png
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c89d5374-x1WO80.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/mapicon.png?simply_static_page=202
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/mapicon.png?simply_static_page=202
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 2287 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/mapicon.png
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c89d5374-x1WO80.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/mapicon.png
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 112
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c89dbb23-ZbmTXb.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/?simply_static_page=203
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/?simply_static_page=203
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:103] Filesize: 1323 bytes
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html;charset=UTF-8
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/slider/index.html
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c89dbb23-ZbmTXb.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/slider/index.html
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:144] Adding 4 URLs to the queue
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:05] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 102 of 112 pages/files
+[2024-04-18 18:55:05] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-18 18:55:05] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-18 18:55:05] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:55] Total pages: 126; Pages remaining: 14
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/author/1.jpg
+[2024-04-18 18:55:05] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 126
+[2024-04-18 18:55:05] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c89f2d8a-C8HKMJ.tmp
+[2024-04-18 18:55:05] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/author/1.jpg?simply_static_page=204
+[2024-04-18 18:55:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/author/1.jpg?simply_static_page=204
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 68604 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/author/1.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c89f2d8a-C8HKMJ.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/author/1.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/background/1.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a052f0-XFQKw7.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/background/1.jpg?simply_static_page=205
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/background/1.jpg?simply_static_page=205
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 115778 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/background/1.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a052f0-XFQKw7.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/background/1.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog-single/1.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a0b8f9-a5bU6e.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog-single/1.jpg?simply_static_page=206
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog-single/1.jpg?simply_static_page=206
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 364523 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/blog-single/1.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a0b8f9-a5bU6e.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/blog-single/1.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/1.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a14220-R8r8wp.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/1.jpg?simply_static_page=207
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/1.jpg?simply_static_page=207
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 129082 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/blog/1.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a14220-R8r8wp.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/blog/1.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/2.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a19f3a-9hoZGw.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/2.jpg?simply_static_page=208
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/2.jpg?simply_static_page=208
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 59713 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/blog/2.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a19f3a-9hoZGw.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/blog/2.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/3.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a20d19-upaETz.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/3.jpg?simply_static_page=209
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/3.jpg?simply_static_page=209
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 43449 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/blog/3.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a20d19-upaETz.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/blog/3.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/4.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a2743d-BujnHR.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/4.jpg?simply_static_page=210
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/blog/4.jpg?simply_static_page=210
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 66931 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/blog/4.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a2743d-BujnHR.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/blog/4.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/1.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a2e274-1zXjpo.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/1.jpg?simply_static_page=211
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/1.jpg?simply_static_page=211
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 10462 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/comment/1.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a2e274-1zXjpo.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/comment/1.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/2.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a34917-3VuDxc.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/2.jpg?simply_static_page=212
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/2.jpg?simply_static_page=212
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 11665 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/comment/2.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a34917-3VuDxc.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/comment/2.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/3.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a3a5ef-whL6J9.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/3.jpg?simply_static_page=213
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/3.jpg?simply_static_page=213
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 7913 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/comment/3.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a3a5ef-whL6J9.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/comment/3.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/4.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a40677-zzFBqP.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/4.jpg?simply_static_page=214
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/comment/4.jpg?simply_static_page=214
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 8802 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/comment/4.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a40677-zzFBqP.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/comment/4.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/img/select-icons.png
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a466d2-syD33b.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/img/select-icons.png?simply_static_page=215
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/img/select-icons.png?simply_static_page=215
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 1297 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/png
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/img/select-icons.png
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a466d2-syD33b.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/img/select-icons.png
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/1.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a4da9b-m5NKyq.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/1.jpg?simply_static_page=216
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/1.jpg?simply_static_page=216
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 183594 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/slider/1.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a4da9b-m5NKyq.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/slider/1.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:58] URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/2.jpg
+[2024-04-18 18:55:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 126
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\rajvi\AppData\Local\Temp/66216c8a579ed-3h1PMr.tmp
+[2024-04-18 18:55:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/2.jpg?simply_static_page=217
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpressdemo/wp-content/themes/heeraa/images/slider/2.jpg?simply_static_page=217
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:103] Filesize: 264162 bytes
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/themes/heeraa/images/slider/2.jpg
+[2024-04-18 18:55:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\rajvi\AppData\Local\Temp/66216c8a579ed-3h1PMr.tmp to C:\xampp\htdocs\wordpressdemo/wp-content/uploads\simply-static\temp-files/simply-static-1-1713466467/wp-content/themes/heeraa/images/slider/2.jpg
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:137] Extracting URLs and replacing URLs in the static file
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:144] Adding 0 URLs to the queue
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:155] We're saving this URL; keeping the static file
+[2024-04-18 18:55:06] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 112 of 126 pages/files
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-18 18:55:06] [class-ss-fetch-urls-task.php:55] Total pages: 126; Pages remaining: 0
+[2024-04-18 18:55:06] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 126 of 126 pages/files
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:171] We've found our next task: create_zip_archive
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:132] Current task: create_zip_archive
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:149] Performing task: create_zip_archive
+[2024-04-18 18:55:06] [class-ss-create-zip-archive.php:71] Fetching list of files to include in zip
+[2024-04-18 18:55:06] [class-ss-create-zip-archive.php:80] Creating zip archive
+[2024-04-18 18:55:06] [class-ss-task.php:44] Status message: [create_zip_archive] ZIP archive created:  <a href="http://localhost/wordpressdemo/wp-content/uploads/simply-static/temp-files/simply-static-1-1713466467.zip">Click here to download</a>
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:171] We've found our next task: wrapup
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:132] Current task: wrapup
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:149] Performing task: wrapup
+[2024-04-18 18:55:06] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-04-18 18:55:06] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:166] This task is done and there are no more tasks, time to complete the job
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:193] Completing the job
+[2024-04-18 18:55:06] [class-ss-archive-creation-job.php:320] Status message: [done] Done! Finished in 00:00:39
+[2024-04-19 11:50:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/demo
+[2024-04-19 11:50:22] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/demo
+[2024-04-19 11:50:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/demo
+[2024-04-19 11:50:27] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/demo

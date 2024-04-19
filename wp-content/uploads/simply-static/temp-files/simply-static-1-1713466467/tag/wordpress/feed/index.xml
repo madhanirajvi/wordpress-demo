@@ -1,0 +1,66 @@
+<br />
+<b>Deprecated</b>:  Using ${var} in strings is deprecated, use {$var} instead in <b>C:\xampp\htdocs\wordpressdemo\wp-content\plugins\simply-static\src\class-ss-query.php</b> on line <b>397</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress &#8211; Heeraa</title>
+	<atom:link href="/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 18 Apr 2024 18:11:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Standard Blog post Title</title>
+		<link>/standard-blog-post-title/</link>
+					<comments>/standard-blog-post-title/#comments</comments>
+		
+		<dc:creator><![CDATA[Rajvi]]></dc:creator>
+		<pubDate>Thu, 18 Apr 2024 17:45:53 +0000</pubDate>
+				<category><![CDATA[css]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[item]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://192.168.10.20/rajvi/wordpress/heeraa/?p=49</guid>
+
+					<description><![CDATA[Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. ...]]></description>
+		
+					<wfw:commentRss>/standard-blog-post-title/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Standard Blog post Image</title>
+		<link>/standard-blog-post-image/</link>
+		
+		<dc:creator><![CDATA[Rajvi]]></dc:creator>
+		<pubDate>Thu, 18 Apr 2024 17:43:52 +0000</pubDate>
+				<category><![CDATA[css]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[item]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://192.168.10.20/rajvi/wordpress/heeraa/?p=124</guid>
+
+					<description><![CDATA[Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis &#8230; <a href="/standard-blog-post-image/" class="more-link">Continue reading<span class="screen-reader-text"> "Standard Blog post Image"</span></a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+#nav-menus-frame .ui-state-active
+{
+    background: #e21130 !important;
+    color:#fff;
+    border: 1px solid #e21130;
+}
+.ui-buttonset .ui-button {
+     margin-left: 0;
+    margin-right: -4px;
+}
+.textbox-font{
+    width: 55%;
+    margin-bottom: 5px;
+}

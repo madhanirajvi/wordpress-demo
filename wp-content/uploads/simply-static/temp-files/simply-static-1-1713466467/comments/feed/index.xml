@@ -1,0 +1,37 @@
+<br />
+<b>Deprecated</b>:  Using ${var} in strings is deprecated, use {$var} instead in <b>C:\xampp\htdocs\wordpressdemo\wp-content\plugins\simply-static\src\class-ss-query.php</b> on line <b>397</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Heeraa	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 18 Apr 2024 18:11:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>
+		Comment on Standard Blog post Title by Rajvi		</title>
+		<link>/standard-blog-post-title/#comment-3</link>
+
+		<dc:creator><![CDATA[Rajvi]]></dc:creator>
+		<pubDate>Thu, 17 Mar 2016 11:30:04 +0000</pubDate>
+		<guid isPermaLink="false">http://192.168.10.20/rajvi/wordpress/heeraa/?p=49#comment-3</guid>
+
+					<description><![CDATA[nicee...]]></description>
+			<content:encoded><![CDATA[<p>nicee&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
