@@ -10874,3 +10874,1733 @@
 [2024-04-19 12:20:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
 [2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/05-full-gradient-square/index.php
 [2024-04-19 12:20:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/05-full-gradient-square/Instagram.png
+[2024-04-19 12:20:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/05-full-gradient-square/LinkedIn.png
+[2024-04-19 12:20:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/05-full-gradient-square/Pinterest.png
+[2024-04-19 12:20:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/05-full-gradient-square/Twitter.png
+[2024-04-19 12:20:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:52] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 800 of 7045 pages/files
+[2024-04-19 12:20:52] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:52] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:52] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 6195
+[2024-04-19 12:20:52] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/05-full-gradient-square/Website.png
+[2024-04-19 12:20:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/05-full-gradient-square/Youtube.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Email.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Facebook.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Google-Plus.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Instagram.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/LinkedIn.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Pinterest.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Twitter.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Website.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/06-full-symbol-color/Youtube.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Email.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Facebook.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Google-Plus.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Instagram.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/LinkedIn.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Pinterest.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Twitter.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Website.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/07-full-symbol-black/Youtube.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Email.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Facebook.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Google-Plus.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Instagram.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/LinkedIn.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Pinterest.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Twitter.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Website.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/08-full-symbol-grey/Youtube.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Email.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Facebook.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Google-Plus.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Instagram.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/LinkedIn.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Pinterest.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Twitter.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Website.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/09-line-roundrect/Youtube.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Email.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Facebook.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Google-Plus.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Instagram.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/LinkedIn.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Pinterest.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Twitter.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 850 of 7045 pages/files
+[2024-04-19 12:20:53] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:53] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:53] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 6145
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Website.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/10-line-square/Youtube.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/custom.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/social-icons/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/newsletter_editor/wc-default-logo.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/post_notifications_template/ALC-widget-icon.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/post_notifications_template/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/post_notifications_template/settings-icon-highlight.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/upgrade/1-starter-plan.svg
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/upgrade/2-tier-1-plan.svg
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/upgrade/3-business-plan.svg
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/upgrade/check.svg
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/upgrade/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/upgrade/plus-orange.svg
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/upgrade/plus.svg
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/welcome_template/beacon.png
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/img/welcome_template/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/assets/js/index.php
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/03e4601c2417d3f0352feebe9fddf4a8
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/06cca9c9b7aac516c46d3fc8e74cc50c
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/0c821ae869287f0980a27f6e14cae238
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/0ee6bee6396dce18a62429d450484688
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/1261369d145acd00e348927cb31148c4
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/1390d48bf5780db1458005956c6d0a8b
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/230aa0475e211d0480e0d853561d4458
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/294fd89b21b53d2c17b5c8dcd383f707
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:53] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/298d5f48db6b592f5048118e3c5494ad
+[2024-04-19 12:20:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/31a85c256b823592f4aa320b93687b2a
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/35495509571125569e85c45b456fd27a
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/3d4a1ae2a2030fcb2eaa2e32c1650a7b
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/40341edc4a581f504c84f160e8a63e66
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/474836705d4fb75105f63bb91e670021
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/47e2f77e6de116806fe38d921d6fc697
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/4e0384131a9194090fc9697f00ec1d0b
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/52c7bef7bce4f02663abedf3c0c2e0cd
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/5944cdbd083f920ace29de14818278db
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/5cbd847fc6111a74d79f5d6f30188304
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/6f374d2474401fd82da116c4918684da
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/7634aa43f3fd93a93e72862c58dad4db
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/85b227ae873f45287c4142c05aea28e9
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/86cdde7beb0f9f9b2355cdf32365856a
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/90aaf0ace2624e9d5f7c96d96503673d
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/a0e1c29b3c6f07e08b0130dc97a139e1
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/a2c935bad91cac5c2a915e7ea663ae5a
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/a64ed416c792892c343eeca173703d5c
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/b1e9491f30631030868ef33e6db28dc9
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/cdc74761481b4c2b88fa5737a4f1dcc2
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/d702dd7eea563b32cd973264cb9201e5
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/d7e16f3ba6770b470635a67faf83a802
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 900 of 7045 pages/files
+[2024-04-19 12:20:54] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:54] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:54] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 6095
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/d847c80ea740ae9041e6ec3996aa1bab
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/e10b8f0a2c929401aba9d313ce3d1b39
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/f67415941818cebe8e6be0b413e08573
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/fc749e848a57d02baffbfef0fbb8b1a3
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-metadata/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesCustomFieldEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesDynamicSegmentFilterEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesFeatureFlagEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesFormEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesLogEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesNewsletterEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesNewsletterLinkEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesNewsletterOptionEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesNewsletterOptionFieldEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesNewsletterPostEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesNewsletterSegmentEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesNewsletterTemplateEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesScheduledTaskEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesScheduledTaskSubscriberEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSegmentEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSendingQueueEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSettingEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatisticsBounceEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatisticsClickEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatisticsFormEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatisticsNewsletterEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatisticsOpenEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatisticsUnsubscribeEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatisticsWooCommercePurchaseEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesStatsNotificationEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSubscriberCustomFieldEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSubscriberEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSubscriberIPEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSubscriberSegmentEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesSubscriberTagEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesTagEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesUserAgentEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesUserFlagEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/doctrine-proxies/__CG__MailPoetEntitiesWpPostEntity.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/FreeCachedContainer.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/00/0091bce473f877b232fc941651ea9d6c592af8d32d56a8688fa0f4f3eafe2d43.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/00/00d1b378089ca422405f5641853969e771168227df858c45e738c0964de7b6b9.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/00/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/02/0297ba41ee3d4b9fd579f23b685c5373f0081e2d21241e81099223453669b982.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/02/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/06/069affc9f2c81b4d04b6dc16c3fceae11ff3760a8915d7462ec1343b86b1c224.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/06/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/07/0719eabee9dc6fc55797b0040da567be8003547f5a6db8c10ea35cd2fc6b4326.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 950 of 7045 pages/files
+[2024-04-19 12:20:54] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:54] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:54] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 6045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/07/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/10/108ac2f1fea97bf63ad14efe1dff1b4c5f5d01ac4be078d1ef17cf8913fbf642.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/10/10a5bcee39f4be8be1c5d1b18fbb6ed2d2ec67ace0f708b823bcde65c3f89f52.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/10/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/11/1194ee2cbe745f7cd982dde38186f6aa774c0e600dc1f096b5b4197a416e1afc.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/11/11a21fe1ae144f3fbd03a94e6b2b77f79a1437fce81c4fcdda65dc62b0427368.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/11/11d3f6de05938fc53f6b51a30553350ab288ef245cc1007bdfbcde41b50bd1cf.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/11/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/14/144850f2184c6092be673df8b8168dbdb8bfab75fa4da12cb20dab11838e19f9.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/14/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/16/16e167f7e702eb7b8bcc43fbbb64afecd4823503aee3db03dff48ba4057abea1.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/16/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1a/1a36d546bcd32cc3144b8bb0aa23500fa2381dd12ebbf929075f7aa98c088725.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1a/index.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1d/1d59f10f423108c4336c98e30920c5b476f857c8ac7d11d3cfbbfa5b431d6980.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:54] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1d/1dc15024d43ae2c94fd0529764ebae45b04c151f78a83e116c069c03871bc700.php
+[2024-04-19 12:20:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:54] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1d/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1f/1f96e566c1b958cb10985d2d7c7073fbb258d77a31de5f5f5c0d0eee2c3e4adb.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1f/1f98e8b7a3cde353cf86e09e0873e91d7a6b4b90799d7312fff669c2afbedf28.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/1f/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/20/204c88c0ca90518aa853843727edfc7189a334519792f187a3bd155b5a50c2f3.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/20/2098acfc100b1edff6d3c0b07d4f1311a16fddb181023b1fa5fda2a6e1e76f7a.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/20/2098f3fe3d0777d8e48ed60a2b0cb248a52c08c19c226299957997c056414197.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/20/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/22/221f4a4757dfc9cc8be423a25d17f78485c07857763ec41822e2136a35c3f470.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/22/22a507e28d5b478769d620de5cbd162997ea1415777a1bbca2c263e8ccfc2aa0.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/22/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/23/23e6318054b2704bba6f637c198f95455df2a5ede21240f413faec60f8e803f7.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/23/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/26/26cfaab925cf4fae36b91febc98be57735e35aa7533110f2361e64038327d0c0.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/26/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2a/2a87f8e8d1088eb5e24264dc3377f0f3e6e6683283fe5a49add06d0388f9ac39.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2a/2abcbd1b66e8778cebb19972eeadd3650a2eeb3cd9a959e89aaf68ab407af419.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2a/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2c/2c44d80b3101e368f142a6f11b9106c1337eb815c2feccd3174551c8f0a98e93.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2c/2c603368b196b906f9cb9bf63381f11dedf47ec8481253bc5c121218d50176b1.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2c/2c82a87d856c6077dbb8a3ecd6bd33258bc9f66d2cd17241a497b2abeb3087c0.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2c/2cf935312b37df0b63fbb3eca9a99826a84aa4d7d23021ed4f2e9578b16fa814.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2c/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2d/2d78ef2c7b717aa16ff189d9195d7769dcee50b4327f644222c681ae90cb9f69.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2d/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2f/2fdaf34bbda3125546cd6c64c0391b56b819f1dc3be4d0692dbfcc750c52ba1c.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/2f/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/32/326afb5c4a139f2d408eebdd2be85b805c8b5c3ccbf74d019dd788528c925a24.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/32/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/34/340e84c368959e9e3b67bd600a342270a83ec3c8dab55b98c01604f19d80eef8.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/34/3415ed30e280e73b38fb42f7767864078e3069f28fc01473f97c3c4dac05f6c3.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/34/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/37/37c932a78ed74763258ac8681a3292689781f976f45ca9fca3f16b864f8ffcb7.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/37/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1000 of 7045 pages/files
+[2024-04-19 12:20:55] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:55] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:55] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 5995
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/39/39da32f9fe8a5caa16807fdb58b8d6bb1943456eb890fa93c71599fef75864bd.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/39/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/41/416f478c1fb8a6d0872d9d5c788e94801574488d51506c86372ce5af1e4e7c0b.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/41/41f593b5950f5566c2f812739ee4eec37e04c996b05f4f14e2594389b41da844.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/41/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/42/42a7430d2ea532ac3be3f6cecb16fcca3020b2f1758cee7aedc99e7f030a5b55.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/42/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/45/4509dd17544294662b094544bcb6e8ea2f9b0e74a42d0edaaefbd594cd1d3935.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/45/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/47/4721b01ab0c51ebd3524ba7d29600309d5502fec4f2ed02720fea7239e6875f1.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/47/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/49/495fc8afe27a5b9f6b954753c5cbecafe3004b6fcc28aec7a2b1e4d3c237f004.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/49/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/4a/4a5201f96c8791ca211229f8c2d892150034329d3ec5eec810c5f4c1ed15dcd7.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/4a/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/51/510246f21281ba1c59f852dcfd795825a43631339aeee63b6f3d46ff0c306eda.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/51/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/54/542470e6e346843f6be9c5e8d2278a4bddccde603c6fd5eea841da94c051ea66.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/54/5451ae33c5acdda05bfb0ae8dc6b04f6f412bf3922a03fe851ce45a9630ee917.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/54/54f5a605d72e1c2fc7e0115347268a5ea818c4a5cffcd836ecf9e4ec7e757532.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/54/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/55/55892c2b0f313e70c2523582279e98894aa8f3fb6ed65eede0157e5bfc415ba8.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/55/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/56/56b4ac0356a87ab69dffded5a27a218c4bc781ce14d9686582e5fd1249430a06.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/56/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/57/57a6ddb45b0eda2183adb3a8d777f96654e1a31c3d85b7d2aa1f443cf739ee25.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/57/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/59/59b77f15414428781da0d8f96f2b5f9e252d89b6d74c042723a899c4f4c17db9.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/59/59f440a2826c1572357627835ab0280a12f692895dfe07914e08cdf26519e931.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/59/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5a/5a91f64b03f2eb815855fadaf54e6479595b262c77b031d1e653537f3805d80f.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5a/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5c/5c23c6189ba1fce5d3f4059b2ab3873bee3356e384a15f8e494e62229f3d1cdf.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5c/5cdbc07e4fc05e0984c7b61baaf655b6966b3ef84a5f2434c7cb2157879fb1a0.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5c/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5d/5d0a911176e50085fa0f645dafa33f6bb54942f4cc0c7d027b1f8e108f984df4.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5d/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5e/5eb5626c27549b9e6d73965c5629b8c7260cf9c6422687304440fdbb6da064d8.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/5e/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/60/60833e4d52ee46c86c0bf6c435e1b53f12b53fd0aede3eebabb92200333f2a2a.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/60/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/61/61cf158378e5dca7c505f8e841e719e4eb4d65fb9468456782e056b1905177f8.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/61/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/63/6361ed8aa84ee7417debabf0ecdd0ac14f4daf07e8ea563e41e58e7c2a14dcd1.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/63/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/66/661a2443851fe06a159ed3f9a7bdea014c08f703c9af6cd2bdc3d3b12170eeaf.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/66/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/67/67fa2d00729ada6396f11b3493ccf7d8c24f9436f288f6f77eb3608310e36aed.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/67/index.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6a/6ae3811893e8a45db3c0e6cb11d4617e1863df97b2c7f33d6b4a261db9834e4c.php
+[2024-04-19 12:20:55] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:55] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:55] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:55] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1050 of 7045 pages/files
+[2024-04-19 12:20:56] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:56] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:56] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 5945
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6a/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6b/6bc41f498e8d33551fec22cb32daf2383d032700c411a8e4cfdd1334a0cef0d5.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6b/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6c/6c82dc9359a26c3fe34e1527bed1336200ea99452308310cace0abdbbf5ca744.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6c/6cf1ac3255109cce66d56e4288fa3b8d52924d41cd01d594ca0b62a90b5a60ac.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6c/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6f/6fbe756b0b0b9041e2bdb1478d715627fe4bb93e10d6490c76c267e20b5b8aaf.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/6f/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/71/71933443cfb7e7fd8c728d729372c2b0dd0ed1c5ab3055da9c38ce661abc608b.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/71/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/72/72a160723ae599387df8a1f19a741efc797b3e0b9c00679ff6645c1410305287.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/72/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/73/73f3a8c1cc9a65ca3413f4ea3ff2718b2d5edfe9fb53239c729b3503e745621a.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/73/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/75/75045b50c1fe2b98f2a0580cbd09309e3df9be33deb8b2a17534c167b9d77d7d.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/75/75e8ff9ca041db525f3957e2c3d891df76415c982d665a3645418c035784be2c.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/75/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/7c/7c619eb248bcde66640d4eee490491eca897984bc80ba8b8e134ebfc97060245.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/7c/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/80/80131a8f9935cf42295bb22f2586e1263b5caf0eb1e749e80aa36c69c5eaf571.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/80/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/81/812acea57c969cd9ee834da935fc213eb32f39bc4ef5d9fb52b0275bcf6b2916.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/81/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/82/821acc3bb4a37aac69a661ba405031054b5d03a1d7430980b458c5cafc737269.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/82/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/83/83976881b0bb7b7640c9746de517373569626ae2a6e0992fd813312beca3f9ee.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/83/83d2a61cdabcf28ceaac326041a0b309aa09f7a2cce69ed44afb31c147ab29c7.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/83/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/85/85e5b801aa72ceb78990c638bf2324cbd81e908f11fd3d1f444f8541da017fa0.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/85/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/88/881c245fead6e881df39f7b65b708321b39f5fcce549dc33f628ff5706dc6d9b.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/88/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/89/89e54688cbf5f14f529bedd934d36415148d6b5627a87bbb0cf0cd574b303d87.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/89/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/8a/8a05ee0eaba411fcb6d086bc452e0a4d8bcf5a0da8db5fb2def1a312617f4b37.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/8a/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/8e/8ebacfaefa791c9986d960a142c3f1b49ca7bcb2f313f0da22de93eb2940b886.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/8e/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/8f/8fc5b488d2f812af1c773a86a1f11d30ddc2fde255a0a3daab3140279a6af938.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/8f/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/91/913f6ca4300467f6fd09d861ee890924457d9e09271943404d3c4d1401d0dca3.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/91/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/92/92d76237f1444f3d491acc2fa93c23a2b30f5839481c340f22d42e47e21efdde.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/92/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/93/93d3827b5050004bb59768c0bf9bc9b5e9ef4815c7ac7da6cc21262c219b3ce6.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/93/93f2098d741751175fd93c2c9ea761347545ae112a2ef1d521a40293563103ff.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/93/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/94/94414a3dbe999317e2bc29ec945e3c5540b0b853fc7c5236874692b082156869.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/94/94feef30e518f71dae774ce3b21122b280d35f06cb7d39a98f5d0937e631ee72.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/94/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1100 of 7045 pages/files
+[2024-04-19 12:20:56] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:56] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:56] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 5895
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/99/997d183eebcab0f97b233d325fdc85c11ab603462c24004960dbf17428d73ffb.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/99/99bea3896e0faf25240496d7dd97f9648b7a1fad6ea1c32c2e456ea3dbc99093.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/99/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9a/9aae56717fb150e0a625da253a826ea38e9fbf7c0122474742d5bffcafbd15ad.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9a/9af2614ad870625a403cd77f1d91128caf26e379aaee03998fccf8209ce7f5e8.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9a/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9c/9c6f6cdd6082071acdc9b5df1ec4210254563e8c218f2d7f0400d161def83cd7.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9c/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9d/9d2708e428c74f8a96b8c2164ad15bace2fabc012aec6b5841b1c4cf90b928da.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9d/index.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9e/9e950b56ab1fe2a7d168f308dfb252c679285fd70feda7ec60848e83a681f491.php
+[2024-04-19 12:20:56] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:56] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:56] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9e/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9f/9ff8fd4f40d7dc959e5fef6de966b7e97814e0739eeda834477a6d79ad437363.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/9f/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a1/a12ff94dc3cba355e963307df6a356539c48b28d95e70b2c35b671074e38db0c.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a1/a1eb89b1f26b23fd541827afddae561a0fa6270b2d10b9917b15faab61c18aba.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a1/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a2/a2b5fdaae4fbc89e9831739c7a4679fdaf0545d2bd26cd08ee7fa4779384bd6c.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a2/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a4/a4c773909fea5e6cd7c32a81537aeb3c8e2fbd785a09d2d6c1286e2c3715b173.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a4/a4e2f77a151e75836bb3c42ab4d0e1053eb54448086f88cf3f369f196ca94d17.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a4/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a5/a5115d44726c1a51d07c32e84b58bf5a9ca7e0aa73018341e468bcc68e1ca611.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a5/a55a6bd68f172843aa1769febdddd7dc3ffec71cf34149a272a679830fc17661.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a5/a5a991d1c75ceecfe5f0b769aa1db4fbb3347d8910497ff0a71d79be80f93a15.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a5/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a8/a8a69edd67b2c2be7dbac60cc1daf2a16b6db17e734b5d6eab50a5f18fb1dc20.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a8/a8f75b5c78590a7940b8787a1630a912c45902e6b0fc92a04554777fedd8e325.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/a8/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/aa/aab42b445cf662ae07ee348485f858097c8bce00fd86a014ce0fb8f0651b5419.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/aa/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ac/ac17e21d1704c48c95099807d725545ad5e86914c1a5f715c63f05aa98cca8b0.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ac/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b0/b05e9c6d342b1eaebb7034db468aa690c15f19afccf45fda5c9d44c0a3f8ec42.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b0/b0bb8472f3c9a782f114bed81c77b57052f99ef9e0957422019897e450a07aa6.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b0/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b1/b1ce79c3b12820096f38615aee5803f4ab84ec364c68f67ef724bb1f69280c67.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b1/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b4/b44ecd1ee4d002dfe642d9c7d0f9ccf58523c2e079f829449cf5461a31c16816.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b4/b4c567436ebcab83013591d8abf66a3d04b27feda13cc7e5b9d72a609fe109e6.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b4/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b5/b5e64d18345ccb2f5f6ee2fd6208faca39e064778991d718c686725f7bfa6f57.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b5/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b7/b7777a48ca4d91e297f5d602dec98e2847e785adb19e1b197b4aff92168e32dd.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b7/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b8/b8f4542e13d5b64809722f0aaedad89aabe47dbe7f47302c67ded48f8a153ff3.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/b8/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/be/be5a1a17d0d006e5974a9d2404447c0822ad8a30b47e80ccb7c15b39dda73b04.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/be/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/bf/bfefa6e80602777f3d773ee8a7d946d30d6fb43e7efc99cf4368d90e077b7041.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1150 of 7045 pages/files
+[2024-04-19 12:20:57] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:57] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:57] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 5845
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/bf/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c0/c07695360681a8dd988e325f673dc697f2ebd4f2e9e3e6f599ef32179de1515b.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c0/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c2/c2f885a7d282f813ff049f22017c615a8a1366bf13b2e45130451cd8b0eaab7c.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c2/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c3/c3500aff05a55d4cd8ed9afdb4f1fb9cba461e761e04f8231ff1d77fc23e5e6a.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c3/c397f4a735f170a2c93d1ba53df726e1beaae9ea1a0ce7abfed10bb878754772.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c3/index.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c7/c7f58f41baa489bf97ad7e1cea4e1a2928b296480c1c8e24b337ff5510bab24b.php
+[2024-04-19 12:20:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:57] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:57] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c7/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c8/c810e5385d03cb7459243f90716a11404e0da3aa9371e99ffb9453ff81016b76.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/c8/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ca/ca5a7e42df0d01c148169fecd518a925eacdb7d44e4fe0ef8e99093aaa660b19.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ca/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/cc/cc674c85bb42a9c089df2f7fe621d3f141a0a0749a9935d14002786cddb907ff.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/cc/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/cd/cdb5565567a319e02b72910759a810df34c2acf69cad53b1a829ee9532d3d455.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/cd/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d0/d089321853ae9b61c781d162ef3f4e2f3dd280bf0681dafac560821191096f58.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d0/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d1/d14f5f4679531739b948f53518676767956bdfeb2d0b40fcb1c6bb2626fa062d.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d1/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d4/d46a8b1adbdc3d9d7e990e9e5a5c7c9aefb7d2ce2e79328b83e141b7d8b01459.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d4/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d7/d72b0eb8f17c4d63f963b3e71727ab736a6e3eac1a680a93430b737d116a8a95.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d7/d7c5c3ae77e62ea326481f00afb9c895755eb585f349d0d9833879bcbe04f6ad.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d7/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d8/d814677db83e3e7f014f3d83cb88cab030cc0153f0ddab72942da5c1974d1896.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/d8/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/da/da91af5545e742a5191e1adfba550a85e3f08dc8b14c5ee04cdc9bdec6ccb7b1.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/da/daf3a25e10378e7cd9e8f1c60b7aee5c8126f0d432d34d64848791d0cbe36fad.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/da/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/dc/dcd7b7662531e1d9edd9c6fcecd56ef52be5e6d8ae8f5e913b8970f03336f3d4.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/dc/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/df/df91ad3c8b246d53d4b35c376a4ca6c6b54f93e1cf946c22deb41a002c0a376e.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/df/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e0/e01253f04a735834b5402c00b0a8ba0386a11cc3e24b068e3f1810c5a57c015a.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e0/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e2/e2024f2f90f1de362987d47c0b3bdf67530c91358bfad5670477213fb682b8ed.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e2/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e5/e5ce37bdc8565b14d2ae60197ff19dd6efef43e7da73dd002bb2d8264c2aa7ad.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e5/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e7/e70ed7ac2390f2824ae2ebfb5ed6d0fe7484642de41c2b91be973b3217ab7c31.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e7/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e8/e8f34663cc49d1f0815e6d624e5e2a152275ac7e3e8c1ac167a8a3b1d922c1af.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e8/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e9/e9631de0391b8d449719f618cc98a2d5f3ae1e69c80a7280ab77c30b3193d57f.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/e9/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ed/ed83f1d012a4620973154ed50cf15a673fc794edcbd184156b4b8a002feb8950.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ed/ed883863833991605f5f16d6ed5566859baf2d17eb5aa025f1f775f83c68995d.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1200 of 7045 pages/files
+[2024-04-19 12:20:58] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-19 12:20:58] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-19 12:20:58] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:55] Total pages: 7045; Pages remaining: 5795
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ed/eddd15be9a321ba153da72769a187324a4141789a53292de004b743be0807d9c.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/ed/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f0/f0df5914fb074de6baf0c26ee6b7402337987a33ef725bfad0d621465e5edf44.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f0/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f3/f3943665a86c18f6dd309d00d8b678d1bb2c71a5a281fe141e2bc112e6dcd4c0.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f3/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f6/f67bb1b72f27fde0e92945a3f29134cc50ac1040b106c00c65a31946aa509036.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f6/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f7/f7a6d3622bb46dbf3801473f517f834c631ae9f7f54c0940c6339984a36f5d8f.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f7/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f8/f81228294abb4d565e0deea863de36712b0926420bf8d1edf6e72504f68d1567.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f8/index.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 7045
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:58] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:58] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f9/f9ac228d27c9395ee019a1b696bd4b77e55053cb84ea1ac19b6825bcee34c1f6.php
+[2024-04-19 12:20:58] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 7045
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:59] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f9/f9b8380c818080a0bcb0f6d6dcb7956e4024d591af48b255439920daf2ff1998.php
+[2024-04-19 12:20:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 7045
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:59] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/f9/index.php
+[2024-04-19 12:20:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 7045
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:59] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/fa/fafba7c541c71d57711dab4d15e45e49febe109e930d4621d7e75e4499cc0f16.php
+[2024-04-19 12:20:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 7045
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-19 12:20:59] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/demo/wp-content/plugins/mailpoet/generated/twig/fa/index.php
+[2024-04-19 12:20:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 7045
+[2024-04-19 12:20:59] [class-ss-fetch-urls-task.php:69] URL is not being excluded
